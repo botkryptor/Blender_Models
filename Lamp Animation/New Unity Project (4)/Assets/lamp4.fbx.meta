@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: c9e8a4fdd215340fba201477d3634066
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: base
+    100002: Base Curve
+    100004: bg
+    100006: Camera
+    100008: Circle
+    100010: Cylinder
+    100012: Lamp Rig
+    100014: Lamp Shade
+    100016: Lamp Shade_end
+    100018: //RootNode
+    100020: LampShade joint
+    100022: Lampshade Outline
+    100024: LampShade profi
+    100026: Light
+    100028: Light Bulb
+    100030: lower arm
+    100032: lower arm 1
+    100034: mirror axis
+    100036: Stem
+    100038: Stem 1
+    100040: Upper arm
+    100042: upper arm
+    400000: base
+    400002: Base Curve
+    400004: bg
+    400006: Camera
+    400008: Circle
+    400010: Cylinder
+    400012: Lamp Rig
+    400014: Lamp Shade
+    400016: Lamp Shade_end
+    400018: //RootNode
+    400020: LampShade joint
+    400022: Lampshade Outline
+    400024: LampShade profi
+    400026: Light
+    400028: Light Bulb
+    400030: lower arm
+    400032: lower arm 1
+    400034: mirror axis
+    400036: Stem
+    400038: Stem 1
+    400040: Upper arm
+    400042: upper arm
+    2000000: Camera
+    2100000: Material.004
+    2100002: Material
+    2100004: Stem
+    2100006: No Name
+    2100008: Material.001
+    2100010: Material.005
+    2300000: base
+    2300002: Base Curve
+    2300004: bg
+    2300006: Circle
+    2300008: Cylinder
+    2300010: LampShade joint
+    2300012: Lampshade Outline
+    2300014: LampShade profi
+    2300016: lower arm 1
+    2300018: Stem 1
+    2300020: Upper arm
+    3300000: base
+    3300002: Base Curve
+    3300004: bg
+    3300006: Circle
+    3300008: Cylinder
+    3300010: LampShade joint
+    3300012: Lampshade Outline
+    3300014: LampShade profi
+    3300016: lower arm 1
+    3300018: Stem 1
+    3300020: Upper arm
+    4300000: bg
+    4300002: Base Curve
+    4300004: base
+    4300006: Stem
+    4300008: lower arm
+    4300010: Upper arm
+    4300012: LampShade joint
+    4300014: LampShade profi
+    4300016: Lampshade Outline
+    4300018: Circle
+    4300020: Cylinder
+    7400000: Camera|baseAction
+    7400002: Camera|bgAction
+    7400004: Camera|CameraAction
+    7400006: Camera|CylinderAction
+    7400008: Camera|LampShade profiAction
+    7400010: bg|baseAction
+    7400012: bg|bgAction
+    7400014: bg|CameraAction
+    7400016: bg|CylinderAction
+    7400018: bg|LampShade profiAction
+    7400020: base|baseAction
+    7400022: base|bgAction
+    7400024: base|CameraAction
+    7400026: base|CylinderAction
+    7400028: base|LampShade profiAction
+    7400030: Lamp Rig|baseAction
+    7400032: Lamp Rig|bgAction
+    7400034: Lamp Rig|CameraAction
+    7400036: Lamp Rig|CylinderAction
+    7400038: Lamp Rig|Lamp RigAction
+    7400040: Lamp Rig|LampShade profiAction
+    7400042: LampShade profi|baseAction
+    7400044: LampShade profi|bgAction
+    7400046: LampShade profi|CameraAction
+    7400048: LampShade profi|CylinderAction
+    7400050: LampShade profi|LampShade profiAction
+    7400052: Cylinder|baseAction
+    7400054: Cylinder|bgAction
+    7400056: Cylinder|CameraAction
+    7400058: Cylinder|CylinderAction
+    7400060: Cylinder|LampShade profiAction
+    9500000: //RootNode
+    10800000: Light
+    10800002: Light Bulb
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
